@@ -6,6 +6,10 @@ This is a script that is basically set up to be able to set and create NPCs who 
 
 ox_lib (v3.28.1) i think :3
 
+# Preview
+
+https://streamable.com/z8bzb7
+
 # Credits 
 
 [@Mustachedom](https://github.com/Mustachedom/) (function)
